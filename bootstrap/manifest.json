@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a browser action with kittens.",
+  "name": "Smarttab",
+  "description": "This extension turns your boring new tab into your social media dashboard.",
   "version": "1.0",
 
   "permissions": [
